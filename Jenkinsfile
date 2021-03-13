@@ -10,7 +10,7 @@ pipeline {
     stages{
         stage('VCS CheckOut'){
             steps{
-                git 'https://github.com:kingavatar/Scientific-Calculator-with-DevOps.git'
+                git 'https://github.com/kingavatar/Scientific-Calculator-with-DevOps.git'
             }
         }
         stage('Unit Testing'){
