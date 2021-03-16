@@ -1,5 +1,6 @@
 plugins {
     id 'java'
+    id 'application'
 }
 
 group 'com.github.kingavatar'
@@ -16,6 +17,14 @@ dependencies {
 
 test {
     useJUnitPlatform()
+}
+
+run {
+    standardInput = System.in
+}
+
+application {
+    mainClass = 'com.github.kingavatar.scientificcalculator.EntryPoint'
 }
 
 jar {
