@@ -53,8 +53,9 @@ pipeline {
 		} 
 		stage('Cleaning up') { 
 			steps{ 
+        def version=""
 				script{ 
-					def version = sh (
+					version = sh (
 							script: "./gradlew properties -q | grep \"version:\" | awk '{print \$2}'",
 							returnStdout: true
 							).trim()
