@@ -3,6 +3,7 @@ pipeline {
     registry = "kingavatar/scical" 
     registryCredential = 'dockerhub_id' 
     dockerImage = '' 
+    version= ""
   }
 
   agent any
@@ -34,7 +35,7 @@ pipeline {
 		stage('Building The Docker Image') { 
 			steps{
 				script{ 
-					def version = sh (
+					version = sh (
 						script: "./gradlew properties -q | grep \"version:\" | awk '{print \$2}'",
 						returnStdout: true
 						).trim().toLowerCase()
@@ -53,7 +54,6 @@ pipeline {
 		} 
 		stage('Cleaning up') { 
 			steps{ 
-        def version=""
 				script{ 
 					version = sh (
 							script: "./gradlew properties -q | grep \"version:\" | awk '{print \$2}'",
