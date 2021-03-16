@@ -21,6 +21,6 @@ class CalculatorTest {
     @Test
     @DisplayName("Ensuring Object returns its String Message")
     void testToString() {
-        assertEquals(testCalculator.toString(), "This is a Calculator CLI Application","Calculator Object String method should return its message");
+        assertEquals(testCalculator.toString(), "Welcome to the Calculator CLI Application","Calculator Object String method should return its message");
     }
 }

@@ -49,32 +49,33 @@ public class EntryPoint {
         System.out.print("Enter a number : ");
         int response = scanner.nextInt();
         switch (response) {
-            case 0 -> {
+            case 0:
                 System.out.println("Thank you for using the Application, Bye Bye.");
                 return false;
-            }
-            case 1 -> {
+            case 1:
                 System.out.print("Enter a Number : ");
                 double inputNoSqrt = scanner.nextDouble();
                 System.out.println(scientificCalculator.SquareRoot(inputNoSqrt));
-            }
-            case 2 -> {
+                break;
+            case 2:
                 System.out.print("Enter a Number : ");
                 int inputNoFact = scanner.nextInt();
                 System.out.println(scientificCalculator.Factorial(inputNoFact));
-            }
-            case 3 -> {
+                break;
+            case 3:
                 System.out.print("Enter a Number : ");
                 double inputNolog = scanner.nextDouble();
                 System.out.println(scientificCalculator.Log(inputNolog));
-            }
-            case 4 -> {
+                break;
+            case 4:
                 System.out.print("Enter a Number : ");
                 double inputNoPow = scanner.nextDouble();
                 int inputNoExponent = scanner.nextInt();
                 System.out.println(scientificCalculator.Pow(inputNoPow, inputNoExponent));
-            }
-            default -> System.out.println("Please Choose Number Between [1-4] for the Given Options.");
+                break;
+            default:
+                System.out.println("Please Choose Number Between [1-4] for the Given Options.");
+                break;
         }
         return true;
     }
