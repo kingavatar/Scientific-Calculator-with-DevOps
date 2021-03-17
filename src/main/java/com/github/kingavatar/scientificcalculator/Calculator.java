@@ -79,5 +79,11 @@ public class Calculator {
       logger.info("[NATURAL_LOGARITHM - RESULT] : "+result);
       return result;
     }
-    public double Pow(double num1, int num2){return num1;}
+    public double Pow(double num1, double num2){
+      double result = 1;
+    	logger.info("[POWER] : "+num1+","+num2);
+    	result = Math.pow(num1,num2);
+    	logger.info("[POWER - RESULT] : "+result);
+    	return result;
+    }
 }

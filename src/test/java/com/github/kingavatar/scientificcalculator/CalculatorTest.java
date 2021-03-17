@@ -41,4 +41,10 @@ class CalculatorTest {
     void testLog(){
        assertEquals(testCalculator.Log(10),2.302585092994046);
     }
+
+    @Test
+    @DisplayName("Testing the Power Function")
+    void testPow(){
+       assertEquals(testCalculator.Pow(10,2),100.0);
+    }
 }

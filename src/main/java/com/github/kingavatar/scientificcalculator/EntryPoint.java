@@ -60,7 +60,7 @@ public class EntryPoint {
                 break;
             case 2:
                 System.out.print("Enter a Number : ");
-                int inputNoFact = scanner.nextInt();
+                int inputNoFact = (int) Math.round(scanner.nextDouble());
                 System.out.println(scientificCalculator.Factorial(inputNoFact));
                 break;
             case 3:
@@ -69,9 +69,9 @@ public class EntryPoint {
                 System.out.println(scientificCalculator.Log(inputNolog));
                 break;
             case 4:
-                System.out.print("Enter a Number : ");
+                System.out.print("Enter two Numbers : ");
                 double inputNoPow = scanner.nextDouble();
-                int inputNoExponent = scanner.nextInt();
+                double inputNoExponent = scanner.nextDouble();
                 System.out.println(scientificCalculator.Pow(inputNoPow, inputNoExponent));
                 break;
             default:

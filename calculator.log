@@ -43,3 +43,17 @@
 17/Mar/2021:08:55:15 262 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [NATURAL_LOGARITHM - RESULT] : 5.545177444479562
 17/Mar/2021:08:55:18 169 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [NATURAL_LOGARITHM] : 1000.0
 17/Mar/2021:08:55:18 169 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [NATURAL_LOGARITHM - RESULT] : 6.907755278982137
+17/Mar/2021:09:00:28 012 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [FACTORIAL] : 2
+17/Mar/2021:09:00:28 018 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [FACTORIAL - RESULT] : 2
+17/Mar/2021:09:00:35 204 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [FACTORIAL] : 5
+17/Mar/2021:09:00:35 205 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [FACTORIAL - RESULT] : 120
+17/Mar/2021:09:01:55 782 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [POWER] - 12.0,2.0
+17/Mar/2021:09:01:55 787 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [RESULT - POWER] - 144.0
+17/Mar/2021:09:02:19 834 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [POWER] - 10.0,2.0
+17/Mar/2021:09:02:19 840 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [RESULT - POWER] - 100.0
+17/Mar/2021:09:04:00 250 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [POWER] : 10.0,2.0
+17/Mar/2021:09:04:00 255 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [POWER - RESULT] : 100.0
+17/Mar/2021:09:04:06 357 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [POWER] : 20.0,3.0
+17/Mar/2021:09:04:06 358 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [POWER - RESULT] : 8000.0
+17/Mar/2021:09:04:13 726 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [POWER] : 50.0,2.0
+17/Mar/2021:09:04:13 727 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [POWER - RESULT] : 2500.0
