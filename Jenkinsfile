@@ -71,7 +71,6 @@ pipeline {
             $class: "RundeckNotifier",
             includeRundeckLogs: true,
             rundeckInstance: "Rundeck",
-            options: """ Build_Number=$BUILD_NUMBER""",
             jobId: "8b09b4bf-1ada-4475-a2e6-9b896c5a1687",
             shouldWaitForRundeckJob: true,
             shouldFailTheBuild: true,
