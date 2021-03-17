@@ -1,0 +1,45 @@
+17/Mar/2021:06:57:10 567 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [SQUARE_ROOT] : -1.0
+17/Mar/2021:06:57:10 574 [Calculator.java] [ERROR] com.github.kingavatar.scientificcalculator.Calculator [SQUARE_ROOT - NEG_INT_ERROR] : Given Number Can't be Negative
+17/Mar/2021:06:57:10 575 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [SQUARE_ROOT - RESULT] : -1.0
+17/Mar/2021:07:10:41 320 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [SQUARE_ROOT] : 4.0
+17/Mar/2021:07:10:41 331 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [SQUARE_ROOT - RESULT] : 2.0
+17/Mar/2021:07:10:47 302 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [SQUARE_ROOT] : 9.0
+17/Mar/2021:07:10:47 304 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [SQUARE_ROOT - RESULT] : 3.0
+17/Mar/2021:07:10:53 303 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [SQUARE_ROOT] : 25.0
+17/Mar/2021:07:10:53 305 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [SQUARE_ROOT - RESULT] : 5.0
+17/Mar/2021:07:10:58 304 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [SQUARE_ROOT] : 7.0
+17/Mar/2021:07:10:58 305 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [SQUARE_ROOT - RESULT] : 2.6457513110645907
+17/Mar/2021:08:33:52 217 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [SQUARE_ROOT] : 12.0
+17/Mar/2021:08:33:52 229 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [SQUARE_ROOT - RESULT] : 3.4641016151377544
+17/Mar/2021:08:33:57 391 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [SQUARE_ROOT] : 24.0
+17/Mar/2021:08:33:57 391 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [SQUARE_ROOT - RESULT] : 4.898979485566356
+17/Mar/2021:08:34:01 843 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [SQUARE_ROOT] : 64.0
+17/Mar/2021:08:34:01 844 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [SQUARE_ROOT - RESULT] : 8.0
+17/Mar/2021:08:34:08 034 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [SQUARE_ROOT] : 123.0
+17/Mar/2021:08:34:08 035 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [SQUARE_ROOT - RESULT] : 11.090536506409418
+17/Mar/2021:08:34:26 687 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [SQUARE_ROOT] : 4.0
+17/Mar/2021:08:34:26 695 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [SQUARE_ROOT - RESULT] : 2.0
+17/Mar/2021:08:34:26 695 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [SQUARE_ROOT] : 4.0
+17/Mar/2021:08:34:26 696 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [SQUARE_ROOT - RESULT] : 2.0
+17/Mar/2021:08:45:53 883 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [FACTORIAL] : 3
+17/Mar/2021:08:45:53 893 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [FACTORIAL - RESULT] : 6
+17/Mar/2021:08:46:35 005 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [NATURAL_LOGARITHM] : 10.0
+17/Mar/2021:08:46:35 012 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [NATURAL_LOGARITHM - RESULT] : 2.302585092994046
+17/Mar/2021:08:46:41 913 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [NATURAL_LOGARITHM] : 2.7
+17/Mar/2021:08:46:41 914 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [NATURAL_LOGARITHM - RESULT] : 0.9932517730102834
+17/Mar/2021:08:54:56 935 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [FACTORIAL] : 12
+17/Mar/2021:08:54:56 947 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [FACTORIAL - RESULT] : 479001600
+17/Mar/2021:08:54:59 616 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [FACTORIAL] : 10
+17/Mar/2021:08:54:59 617 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [FACTORIAL - RESULT] : 3628800
+17/Mar/2021:08:55:01 595 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [FACTORIAL] : 4
+17/Mar/2021:08:55:01 596 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [FACTORIAL - RESULT] : 24
+17/Mar/2021:08:55:05 250 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [NATURAL_LOGARITHM] : 12.0
+17/Mar/2021:08:55:05 252 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [NATURAL_LOGARITHM - RESULT] : 2.4849066497880004
+17/Mar/2021:08:55:07 304 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [NATURAL_LOGARITHM] : 14.0
+17/Mar/2021:08:55:07 305 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [NATURAL_LOGARITHM - RESULT] : 2.6390573296152584
+17/Mar/2021:08:55:09 590 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [NATURAL_LOGARITHM] : 23.0
+17/Mar/2021:08:55:09 591 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [NATURAL_LOGARITHM - RESULT] : 3.1354942159291497
+17/Mar/2021:08:55:15 262 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [NATURAL_LOGARITHM] : 256.0
+17/Mar/2021:08:55:15 262 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [NATURAL_LOGARITHM - RESULT] : 5.545177444479562
+17/Mar/2021:08:55:18 169 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [NATURAL_LOGARITHM] : 1000.0
+17/Mar/2021:08:55:18 169 [Calculator.java] [INFO] com.github.kingavatar.scientificcalculator.Calculator [NATURAL_LOGARITHM - RESULT] : 6.907755278982137
