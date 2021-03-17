@@ -28,7 +28,7 @@ pipeline {
 		stage('Assemble'){
 			steps{
 				// gradlew('assemble')
-				sh './gradlew assemble'
+				sh './gradlew clean assemble'
 
 			}
 		}
