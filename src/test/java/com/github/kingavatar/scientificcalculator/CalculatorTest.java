@@ -23,4 +23,11 @@ class CalculatorTest {
     void testToString() {
         assertEquals(testCalculator.toString(), "Welcome to the Calculator CLI Application","Calculator Object String method should return its message");
     }
+
+    @Test
+    @DisplayName("Testing the SQRT Function")
+    void testSquareRoot(){
+       double res = testCalculator.SquareRoot(4);
+       assertEquals(testCalculator.SquareRoot(4),2.0);
+    }
 }

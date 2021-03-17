@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'com.github.kingavatar'
-version '1.2.3.1a'
+version '1.2.4.1a'
 
 repositories {
     mavenCentral()
