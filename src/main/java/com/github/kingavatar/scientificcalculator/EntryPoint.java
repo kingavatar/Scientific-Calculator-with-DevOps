@@ -3,6 +3,7 @@ package com.github.kingavatar.scientificcalculator;
 import java.util.Scanner;
 
 public class EntryPoint {
+
     public static void main(String[] args) {
         Calculator scientificCalculator = new Calculator();
         System.out.println("");
